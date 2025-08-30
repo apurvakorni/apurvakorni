@@ -1,4 +1,4 @@
-##Hi, I’m Apurva! 👋
+<B>Hi, I’m Apurva! 👋</B>
 CS Grad Student @ USC Viterbi (May 2026)
 <sub>
 🎓 Coursework @ USC </sub>
