@@ -1,4 +1,5 @@
 <B>Hi, I’m Apurva! 👋</B>
+<br>
 CS Grad Student @ USC Viterbi (May 2026)
 <br>
 🎓 Coursework @ USC 
