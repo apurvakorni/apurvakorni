@@ -1,9 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=B57EDC&duration=4000&lines=Hi+There!+👋;+I'm+Apurva+Korni!;" />
 </h1>
-<p><strong>A current CS Grad Student @ USC Viterbi (Graduating May 2026)</strong></p>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A current CS Grad Student @ USC Viterbi (Graduating May 2026)
 
 <h3><strong>🎓 Coursework @ USC</strong></h3>
 <ul>
