@@ -1,5 +1,5 @@
 <h2><strong>Hi, I’m Apurva! 👋</strong></h2>
-<p><strong>CS Grad Student @ USC Viterbi (May 2026)</strong></p>
+<p><strong>CS Grad Student @ USC Viterbi (Graduating May 2026)</strong></p>
 
 <h3><strong>🎓 Coursework @ USC</strong></h3>
 <ul>
