@@ -2,7 +2,7 @@
 <br>
 CS Grad Student @ USC Viterbi (May 2026)
 <br>
-🎓 Coursework @ USC 
+<b>🎓 Coursework @ USC </b>
 
 CSCI 566 – Deep Learning and its Applications
 
@@ -18,8 +18,8 @@ CSCI 578 - Software Architectures
 
 DSCI 552- Machine Learning for Data Science
 
-<sub>
-🛠️ Tech I use a lot</sub>
+<b>
+🛠️ Tech I use a lot</b>
 
 Languages: Python, SQL, JavaScript/TypeScript
 ML/DS: PyTorch, scikit-learn, pandas, NumPy, XGBoost/LightGBM/CatBoost
@@ -28,4 +28,4 @@ Frontend: React, Angular
 Ops/Cloud: GCP, Git/GitHub, CI basics
 Data: REST/JSON, ETL, dashboards, evaluation design
 
-Opportunities: open to AI/ML/Data Science/SDE internships (Fall/Summer 2026) and 2026 new-grad roles.
+<b>Opportunities: open to AI/ML/Data Science/SDE internships (Fall/Summer 2026) and 2026 new-grad roles.</b>
