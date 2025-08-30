@@ -1,7 +1,7 @@
 <B>Hi, I’m Apurva! 👋</B>
 CS Grad Student @ USC Viterbi (May 2026)
-<sub>
-🎓 Coursework @ USC </sub>
+<br>
+🎓 Coursework @ USC 
 
 CSCI 566 – Deep Learning and its Applications
 
