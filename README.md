@@ -1,16 +1,30 @@
-## Hi there 👋
+##Hi, I’m Apurva! 👋
+CS Grad Student @ USC Viterbi (May 2026)
+<sub>
+🎓 Coursework @ USC </sub>
 
-<!--
-**apurvakorni/apurvakorni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSCI 566 – Deep Learning and its Applications
 
-Here are some ideas to get you started:
+CSCI 570 – Analysis of Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSCI 585 – Database Systems
+
+CSCI 571 – Web Technologies
+
+CSCI 572 - Information Retrieval and Search Engines
+
+CSCI 578 - Software Architectures
+
+DSCI 552- Machine Learning for Data Science
+
+<sub>
+🛠️ Tech I use a lot</sub>
+
+Languages: Python, SQL, JavaScript/TypeScript
+ML/DS: PyTorch, scikit-learn, pandas, NumPy, XGBoost/LightGBM/CatBoost
+Backend: Flask, FastAPI, Node.js
+Frontend: React, Angular
+Ops/Cloud: GCP, Git/GitHub, CI basics
+Data: REST/JSON, ETL, dashboards, evaluation design
+
+Opportunities: open to AI/ML/Data Science/SDE internships (Fall/Summer 2026) and 2026 new-grad roles.
