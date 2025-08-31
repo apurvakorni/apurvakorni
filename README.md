@@ -20,7 +20,7 @@
   <li><strong>Languages:</strong> <code>Python</code>, <code>SQL</code>, <code>JavaScript</code>/<code>TypeScript</code></li>
   <li><strong>ML/DS:</strong> <code>PyTorch</code>, <code>scikit-learn</code>, <code>pandas</code>, <code>NumPy</code>, <code>XGBoost</code>/<code>LightGBM</code>/<code>CatBoost</code></li>
   <li><strong>Backend:</strong> <code>Flask</code>, <code>FastAPI</code>, <code>Node.js</code></li>
-  <li><strong>Frontend:</strong> <code>React</code>, <code>Angular</code><code>HTML</code><code>CSS</code></li>
+  <li><strong>Frontend:</strong> <code>React</code>, <code>Angular</code>,<code>HTML</code>,<code>CSS</code></li>
   <li><strong>Tools:</strong> <code>GCP</code>, <code>Git</code>/<code>GitHub</code>, <code>Tableau</code>, <code>Google Workspace</code></li>
 </ul>
 
