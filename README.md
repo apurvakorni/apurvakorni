@@ -17,7 +17,7 @@
 
 <h3><strong>🛠️ Tech I Use a Lot</strong></h3>
 <ul>
-  <li><strong>Languages:</strong> <code>Python</code>, <code>SQL</code>, <code>JavaScript</code>,<code>Node.js</code>,<code>TypeScript</code></li>
+  <li><strong>Languages:</strong> <code>Python</code>, <code>JavaScript</code>,,<code>TypeScript</code>,<code>SQL</code> </li>
   <li><strong>AI/ML:</strong> <code>PyTorch</code>, <code>scikit-learn</code>, <code>pandas</code>, <code>NumPy</code>, <code>XGBoost</code>/<code>LightGBM</code>/<code>CatBoost</code></li>
   <li><strong>Backend:</strong> <code>Flask</code>, <code>FastAPI</code>, <code>Node.js</code></li>
   <li><strong>Frontend:</strong> <code>React</code>, <code>Angular</code>,<code>HTML</code>,<code>CSS</code></li>
