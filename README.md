@@ -21,7 +21,7 @@
   <li><strong>AI/ML:</strong> <code>PyTorch</code>, <code>keras</code>, <code>tensorflow</code>, <code>scikit-learn</code>, <code>pandas</code>, <code>NumPy</code>, <code>XGBoost</code>/<code>LightGBM</code>/<code>CatBoost</code></li>
   <li><strong>Backend:</strong> <code>Flask</code>, <code>FastAPI</code>, <code>Node.js</code></li>
   <li><strong>Frontend:</strong> <code>React</code>, <code>Angular</code>,<code>HTML</code>,<code>CSS</code></li>
-  <li><strong>Tools:</strong> <code>AWS/GCP</code>, <code>Git</code>/<code>GitHub</code>, <code>Tableau</code>, <code>Google Workspace</code></li>
+  <li><strong>Tools:</strong> <code>AWS</code>, <code>GCP</code>, <code>Git</code>/<code>GitHub</code>, <code>Tableau</code>, <code>Google Workspace</code></li>
 </ul>
 
 <p><strong>Opportunities:</strong> Open to <strong>AI/ML/Data Science/SDE internships (Fall/Spring 2026)</strong> and <strong>2026 new-grad roles</strong>.</p>
