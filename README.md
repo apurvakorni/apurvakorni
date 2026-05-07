@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=B57EDC&duration=4000&lines=Hi+There!+👋;+I'm+Apurva!;" />
 </h1>
 
-### CS Grad Student @ USC Viterbi (Graduating May 2026)
-
 <h3><strong>🛠️ Tech I Use a Lot</strong></h3>
 <ul>
   <li><strong>Languages:</strong>  <code>Java</code>, <code>Python</code>,  <code>C++</code>, <code>JavaScript</code>,<code>TypeScript</code>,<code>SQL</code> </li>
